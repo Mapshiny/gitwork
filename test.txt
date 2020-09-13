@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 hello,world!
 creating a new branch is very fast!
 branch dev insert
-=======
-hello,world!
-creating a new branch is very fast!
-branch dev insert
->>>>>>> dev
