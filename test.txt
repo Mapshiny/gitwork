@@ -3,3 +3,4 @@ creating a new branch is very fast!
 branch dev insert
 123
 creating a new branch is quick and simple
+fix bug
